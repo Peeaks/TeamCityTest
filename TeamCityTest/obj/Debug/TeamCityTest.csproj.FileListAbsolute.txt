@@ -1,0 +1,9 @@
+c:\Users\Admin\documents\visual studio 2015\Projects\TeamCity\TeamCityTest\bin\Debug\TeamCityTest.dll
+c:\Users\Admin\documents\visual studio 2015\Projects\TeamCity\TeamCityTest\bin\Debug\TeamCityTest.pdb
+c:\Users\Admin\documents\visual studio 2015\Projects\TeamCity\TeamCityTest\bin\Debug\nunit.framework.dll
+c:\Users\Admin\documents\visual studio 2015\Projects\TeamCity\TeamCityTest\bin\Debug\TeamCity.exe
+c:\Users\Admin\documents\visual studio 2015\Projects\TeamCity\TeamCityTest\bin\Debug\TeamCity.pdb
+c:\Users\Admin\documents\visual studio 2015\Projects\TeamCity\TeamCityTest\bin\Debug\nunit.framework.xml
+c:\Users\Admin\documents\visual studio 2015\Projects\TeamCity\TeamCityTest\obj\Debug\TeamCityTest.csprojResolveAssemblyReference.cache
+c:\Users\Admin\documents\visual studio 2015\Projects\TeamCity\TeamCityTest\obj\Debug\TeamCityTest.dll
+c:\Users\Admin\documents\visual studio 2015\Projects\TeamCity\TeamCityTest\obj\Debug\TeamCityTest.pdb
