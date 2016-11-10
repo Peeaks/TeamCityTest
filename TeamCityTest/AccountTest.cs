@@ -10,7 +10,7 @@ namespace TeamCityTest {
     [TestFixture]
     class AccountTest {
 
-        [Test]
+        //[Test]
         public void TransferFunds() {
             Account source = new Account();
             source.Deposit(200m);

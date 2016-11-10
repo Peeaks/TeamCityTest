@@ -4,3 +4,5 @@ c:\users\admin\documents\visual studio 2015\Projects\TeamCity\TeamCity\bin\Debug
 c:\users\admin\documents\visual studio 2015\Projects\TeamCity\TeamCity\obj\Debug\TeamCity.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2015\Projects\TeamCity\TeamCity\obj\Debug\TeamCity.exe
 c:\users\admin\documents\visual studio 2015\Projects\TeamCity\TeamCity\obj\Debug\TeamCity.pdb
+C:\Users\Admin\documents\visual studio 2015\Projects\TeamCity\TeamCity\bin\Debug\nunit.framework.dll
+C:\Users\Admin\documents\visual studio 2015\Projects\TeamCity\TeamCity\bin\Debug\nunit.framework.xml
