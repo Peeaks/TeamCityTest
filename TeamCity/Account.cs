@@ -17,6 +17,8 @@ namespace TeamCity {
         }
 
         public void TransferFunds(Account destination, decimal amount) {
+            Withdraw(amount);
+            destination.Deposit(amount);
         }
 
         public decimal Balance => _balance;

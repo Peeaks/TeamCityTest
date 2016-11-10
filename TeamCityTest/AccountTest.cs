@@ -12,17 +12,16 @@ namespace TeamCityTest {
 
         [Test]
         public void TransferFunds() {
-            //Account source = new Account();
-            //source.Deposit(200m);
+            Account source = new Account();
+            source.Deposit(200m);
 
-            //Account destination = new Account();
-            //destination.Deposit(150m);
+            Account destination = new Account();
+            destination.Deposit(150m);
 
-            //source.TransferFunds(destination, 100m);
+            source.TransferFunds(destination, 100m);
 
-            //Assert.AreEqual(250m, destination.Balance);
-            //Assert.AreEqual(100m, source.Balance);
-            Assert.AreEqual(1, 1);
+            Assert.AreEqual(250m, destination.Balance);
+            Assert.AreEqual(100m, source.Balance);
         }
 
         [Test]
