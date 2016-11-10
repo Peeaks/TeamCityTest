@@ -25,6 +25,7 @@ namespace TeamCityTest {
             Assert.AreEqual(1, 1);
         }
 
+        [Test]
         public void TestTeamCity() {
             Assert.AreEqual(1, 1);
         }
