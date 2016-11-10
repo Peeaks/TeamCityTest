@@ -6,14 +6,12 @@ using System.Threading.Tasks;
 
 namespace TeamCity {
     public class Account {
-        private decimal _balance;
-
         public void Deposit(decimal amount) {
-            _balance += amount;
+            Balance += amount;
         }
 
         public void Withdraw(decimal amount) {
-            _balance -= amount;
+            Balance -= amount;
         }
 
         public void TransferFunds(Account destination, decimal amount) {
@@ -21,6 +19,6 @@ namespace TeamCity {
             destination.Deposit(amount);
         }
 
-        public decimal Balance => _balance;
+        public decimal Balance { get; private set; }
     }
 }
